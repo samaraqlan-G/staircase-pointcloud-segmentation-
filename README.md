@@ -1,9 +1,6 @@
-# Geometric Segmentation of Steppable Surfaces in Simulated LiDAR Staircase Point Clouds
-
-A comparative evaluation of four classical (non-learning) geometric segmentation
-methods for separating **steppable treads** from **risers** and **other** points
-in a synthetic 4-step staircase point cloud, framed for **stair-climbing robot
-perception**.
+# Robust Treadable Surface Segmentation of a
+Simulated 4-Step Staircase Point Cloud Using
+RANSAC, PCA-Normal Analysis, and DBSCAN **.
 
 This repository accompanies a short IEEE-format paper and a runnable Jupyter
 notebook. Everything is dependency-light (NumPy + scikit-learn); Open3D is
