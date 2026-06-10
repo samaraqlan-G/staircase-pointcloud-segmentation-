@@ -1,0 +1,10 @@
+# Core (required) — the project runs fully on these.
+numpy>=1.24
+scikit-learn>=1.2
+matplotlib>=3.6
+
+# Notebook
+jupyterlab>=4.0
+
+# Optional: interactive 3D viewing only. The pipeline works without it.
+# open3d>=0.17
