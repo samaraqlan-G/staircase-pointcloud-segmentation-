@@ -1,7 +1,4 @@
-# Geometric Segmentation of Steppable Surfaces in
-Simulated LiDAR Staircase Point Clouds: A
-Comparative Evaluation for Stair-Climbing Robot
-Perception**.
+# Geometric Segmentation of Steppable Surfaces in Simulated LiDAR Staircase Point Clouds: A Comparative Evaluation for Stair-Climbing Robot Perception**.
 
 This repository accompanies a short IEEE-format paper and a runnable Jupyter
 notebook. Everything is dependency-light (NumPy + scikit-learn); Open3D is
